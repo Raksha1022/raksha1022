@@ -1,0 +1,3 @@
+References used to develop Talk_bot
+1.https://realpython.com/python-speech-recognition/
+2.https://www.geeksforgeeks.org/number-guessing-game-in-python/
