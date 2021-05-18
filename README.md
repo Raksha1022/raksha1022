@@ -8,3 +8,6 @@ This program is based on a game , where first it will ask the name of the player
 2. pip install -r requirements.txt to install all requirements , check the requirements file to install anything needed to run this program.
 3. run main.py file.python main.py
 4. Guess the number till the number of chance is over then the game will end.
+
+### Note 
+This is a DLithe internship assignment. (python ML)
