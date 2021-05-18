@@ -1,3 +1,4 @@
 Speech Recognition == 3.8.1
 PyAudio‑0.2.11
-
+I took a normal game at first and tried implementing speech recognition in it but did get error , so i gave a list of numbers and 
+blank space to guess the number from the given list .
