@@ -71,7 +71,7 @@ these are the number to be guessed by the player
 '''
 
 numbers = ['1323', '25', '3', '46','5', '644', '2', '8124',
-         '90','234','4']
+         '90','234','4','56','1910','10','22','2003']
 
 # Function will choose one random
 # number from this list of numbers
