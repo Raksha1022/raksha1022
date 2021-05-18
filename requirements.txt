@@ -1,4 +1,4 @@
 Speech Recognition == 3.8.1
 PyAudio‑0.2.11
 I took a normal game at first and tried implementing speech recognition in it but did get error , so i gave a list of numbers and 
-blank space to guess the number from the given list . while saying each number we should be loud , clear and proper prounciation if not it will show none type error and have to start the game again. 
+blank space to guess the number from the given list . while saying each number we should be loud , clear and proper prounciation if not it will show none type error and have to start the game again. if the number is said clearly it will not show any error and the game will continue .
